@@ -1,3 +1,0 @@
-#!/bin/bash
-
-rsync -ra --progress ./build/* deploy@www:/usr/local/www/junk.pics/
