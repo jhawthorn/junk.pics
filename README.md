@@ -5,7 +5,7 @@ This is my GIF collection.
 ## Building
 
 ```bash
-$ make
+$ ./compile
 ```
 
 That will create `build` and generate an HTML index file.
